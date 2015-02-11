@@ -1,2 +1,1 @@
-# -
-এটা আমার প্রথম রিপোজিটোরি গিট হাব এ
+My First Repository on GitHub
